@@ -1,0 +1,117 @@
+.container{
+    
+    position: relative;
+}
+
+.text{
+    color:  #00A5EC;
+    font-size: 40px;
+    padding-top: 15px;
+    padding-left: 1162px;
+
+    
+}
+
+
+
+.nav{
+    height: 65px;
+    background-color:  #d7cfcf;
+    color: black;
+    font-size: large;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    position: relative;
+
+}
+
+.card1{
+    width: 340px;
+    height: 337px;
+    background-color: #d7cfcf;
+    font: normal normal normal 20px Inter;
+    position: absolute;
+    top: 170px;
+    left: 170px;
+    border-radius: 10px;
+    border:1px #EDEDED;
+    text-decoration: none;
+    
+}
+.card1:hover {
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+
+}
+
+
+.card2{
+    width: 342px;
+    height: 337px;
+    background-color: #d7cfcf;
+    font: normal normal normal 20px Inter;
+    border-radius: 10px;
+    position: absolute;
+    top: 170px;
+    left: 619px;
+    
+}
+
+.card2:hover {
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+
+}
+
+.card3{
+    width: 342px;
+    height: 337px;
+    background-color:  #d7cfcf;
+    font: normal normal normal 20px Inter;
+    border-radius: 10px;
+    position: absolute;
+    top: 170px;
+    left: 1068px;
+}
+
+.card3:hover {
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+
+}
+
+.card4{
+    width: 342px;
+    height: 337px;
+    background-color:  #d7cfcf;
+    font: normal normal normal 20px Inter;
+    border-radius: 10px;
+    position: absolute;
+    top: 610px;
+    left: 170px;
+}
+
+.card4:hover {
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+
+}
+
+.card5{
+    width: 342px;
+    height: 337px;
+    background-color:  #d7cfcf;
+    font: normal normal normal 20px Inter;
+    border-radius: 10px;
+    position: absolute;
+    top: 610px;
+    left: 619px;
+}
+.card5:hover {
+    box-shadow: 10px 10px 10px rgb(190, 190, 190);
+
+}
+
+
+h3{
+    text-indent: 50px;
+    color: #00A5EC;
+    
+}

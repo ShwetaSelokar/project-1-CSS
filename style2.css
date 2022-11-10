@@ -1,0 +1,221 @@
+.containerr{
+    
+    position: relative;
+}
+
+.text{
+        color: #00A5EC;
+        font-size: 40px;
+        padding-top: 27px;
+        padding-left: 713px;
+    
+    
+}
+
+.arrow{
+    color:  black;
+    font-size: 32px;
+    padding-top: -30px;
+    padding-left: 488px;
+    
+   
+}
+
+.box{
+    font-size: 50px;
+}
+.nav{
+    height: 65px;
+    background-color:  #d7cfcf;
+    color: black;
+    font-size: large;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    position: relative;
+
+}
+
+.card{
+    width: 417px;
+    height: 337px;
+    background-color: #d7cfcf;
+    font: normal normal normal 20px Inter;
+    position: absolute;
+    top: 198px;
+    left: 488px;
+    border-radius: 10px;
+    border: 1px #EDEDED;
+}
+
+.page1{
+    width: 545px;
+    height: 283px;
+    background-color: #d7cfcf;
+    font: normal normal normal 20px Inter;
+    position: absolute;
+    top: 198px;
+    left: 488px;
+    border-radius: 10px;
+    border: 1px #EDEDED;
+    padding-top: 10px;
+}
+button{
+    padding-top: 5px;
+    padding-left: 2px;
+    width: 125px;
+    height: 50px;
+    color: white;
+    background-color: #00A5EC;
+    position: absolute;
+    left: 378px;
+    top: 221px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    font-size: smaller;
+}
+
+.inn{
+    top: 280px;
+    left: 453px;
+    width: 460px;
+    height: 33px;
+/* UI Properties */
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 4px;
+    padding-top: 1px;
+    text-align: left;
+    font: normal normal normal 16px/20px Inter;
+    letter-spacing: 0px;
+    color: #858585;
+    color: #858585;
+    font-size: large;
+    padding-bottom: 10px;
+}
+
+.cross{
+    padding-left: 500px;
+    padding-top: 25px;
+    font-size: larger;
+}
+
+.main{
+    opacity: 1;
+
+}
+
+.pop{
+    
+        position: fixed;
+        left: 0%;
+        top: 0%;
+        width: 126%;
+        height: 266%;
+        background-color: rgba(37, 37, 37, 0.61);
+        align-items: center;
+        z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+.container{
+    background-color: #F7F7F7;
+    position: relative;
+}
+
+.text{
+    color:  #00A5EC;
+    font-size: 40px;
+    padding-top: 15px;
+    padding-left: 1162px;
+
+    
+}
+
+
+
+.nav{
+    height: 65px;
+    background-color:  #d7cfcf;
+    color: black;
+    font-size: large;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    position: relative;
+
+}
+
+.card1{
+    width: 340px;
+    height: 337px;
+    background-color: #d7cfcf;
+    font: normal normal normal 20px Inter;
+    position: absolute;
+    top: 170px;
+    left: 170px;
+    border-radius: 10px;
+    border:1px #EDEDED;
+    text-decoration: none;
+}
+
+.card2{
+    width: 342px;
+    height: 337px;
+    background-color: #d7cfcf;
+    font: normal normal normal 20px Inter;
+    border-radius: 10px;
+    position: absolute;
+    top: 170px;
+    left: 619px;
+    
+}
+
+.card3{
+    width: 342px;
+    height: 337px;
+    background-color:  #d7cfcf;
+    font: normal normal normal 20px Inter;
+    border-radius: 10px;
+    position: absolute;
+    top: 170px;
+    left: 1068px;
+}
+
+.card4{
+    width: 342px;
+    height: 337px;
+    background-color:  #d7cfcf;
+    font: normal normal normal 20px Inter;
+    border-radius: 10px;
+    position: absolute;
+    top: 610px;
+    left: 170px;
+}
+
+.card5{
+    width: 342px;
+    height: 337px;
+    background-color:  #d7cfcf;
+    font: normal normal normal 20px Inter;
+    border-radius: 10px;
+    position: absolute;
+    top: 610px;
+    left: 619px;
+}
+
+
+h3{
+    text-indent: 50px;
+    color: #00A5EC;
+    
+}
